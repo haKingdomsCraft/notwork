@@ -1,0 +1,2 @@
+# VoteReward
+Vote plugin
